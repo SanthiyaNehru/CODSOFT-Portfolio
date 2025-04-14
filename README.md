@@ -34,7 +34,7 @@ I enjoy building projects, solving problems, and sharing knowledge through teach
 
 ## How to View
 
-You can view the live version here: [Portfolio Website](https://your-portfolio-link.com)
+You can view the live version here: [Portfolio Website](file:///E:/Portfolio/index.html)
 
 ## Getting Started
 
