@@ -21,20 +21,7 @@ I enjoy building projects, solving problems, and sharing knowledge through teach
 ## Tech Stack
 
 - HTML5, CSS3, JavaScript
-- React.js (or replace with the stack you used)
-- Tailwind CSS / Bootstrap
 - Git & GitHub
-
-## Projects Included
-
-- Student Training Portal (Sample Project)
-- Calculator App
-- To-Do List
-- Java-based Console Projects
-
-## How to View
-
-You can view the live version here: [Portfolio Website](file:///E:/Portfolio/index.html)
 
 ## Getting Started
 
